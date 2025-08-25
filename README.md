@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
 # 💫 About Me:
 I’m looking to collaborate on<br>AI/ML projects, web apps, and open-source contributions.<br><br>🙌 I’m looking for help with<br>Improving my DSA in C++, and building scalable backend systems.<br><br>🌱 I’m currently learning<br>C++, Python, TensorFlow, FastAPI, and Web Development (HTML, CSS, JS).<br><br>💬 Ask me about<br>AI model training, beginner-friendly projects, and turning ideas into real applications.<br><br>⚡ Fun fact<br>I’m on a mission to be industry-ready for top tech internships by 2026 🚀
 
