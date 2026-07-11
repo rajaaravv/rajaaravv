@@ -142,12 +142,12 @@ Supported event setup/teardown, managed participant registrations and inquiries,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajaaravv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=false" width="48%"/>
+
 <img src="https://streak-stats.demolab.com/?user=rajaaravv&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaaravv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
+
 
 </div>
 
