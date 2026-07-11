@@ -36,8 +36,6 @@ I'm a Bachelor of Computer Applications student in Patna, Bihar, building toward
 
 I'm early-career and intentionally honest about it: this profile reflects foundational, practicing-level skills — not overstated expertise — with a clear trajectory toward data analytics.
 
-**🌍 Languages:** Hindi (Bilingual/Proficient) · English (Upper Intermediate) · German (Beginner)
-
 **🎯 Open To**
 - Data Analyst internships
 - Data cleaning / dashboard / reporting projects
