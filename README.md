@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+clear+decisions;Python+%2B+SQL+%2B+Excel+%2B+Data+Viz;BCA+Student+%40+Graphic+Era+Hill+University;Open+to+Data+Analyst+internships" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+clear+decisions;Python+%2B+SQL+%2B+Excel+%2B+Power+BI;BCA+Student+%40+Graphic+Era+Hill+University;Open+to+Data+Analyst+internships" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 ### 🧭 About Me
 
-I'm a Bachelor of Computer Applications student in Patna, Bihar, building toward a career in **data analysis**. I work with **Python, SQL, and Microsoft Excel** to clean, structure, and visualize data — and I pair that with real coordination experience from university leadership and project-coordinator roles, where I kept timelines, documentation, and cross-team communication on track.
+I'm a Bachelor of Computer Applications student in Patna, Bihar, building toward a career in **data analysis**. I work with **Python, SQL, Power BI, and Microsoft Excel** to clean, structure, analyze, and visualize data — transforming raw information into actionable insights.
 
 I'm early-career and intentionally honest about it: this profile reflects foundational, practicing-level skills — not overstated expertise — with a clear trajectory toward data analytics.
 
@@ -45,92 +45,22 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Data & Productivity Tools**
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Cleaning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
-
-> Frontend, backend, and cloud/DevOps categories are intentionally left out — they aren't on my resume yet. I'd rather this profile stay accurate than padded.
-
-<br/>
-
----
-
-### 📊 Core Data Skills
+### 🛠️ Data Analyst Tech Stack
 
 <div align="center">
 
-| Domain | Level | Details |
-|---|:---:|---|
-| Python | Foundational | Scripting and data-focused tasks |
-| SQL | Foundational | Querying and database fundamentals |
-| Data Cleaning | Practicing | Preparing raw datasets for analysis |
-| Data Visualization | Practicing | Communicating insights through visuals |
-| Microsoft Excel | Practicing | Analysis, reporting, dashboards |
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
-
-<br/>
-
----
-
-### 💼 Experience
-
-**Project Coordinator** · Graphic Era Hill University
-`January 2026 – May 2026` · Nainital, India
-
-Coordinated project schedules and monitored deliverables to support timely completion, tracked progress and resource allocation, facilitated cross-team communication, and maintained accurate project documentation.
-
-`Project Coordination` `Documentation` `Resource Planning`
-
-<br/>
-
-**Leadership Student** · Graphic Era Hill University
-`August 2025 – December 2025` · Nainital, India
-
-Collaborated on leadership-focused group projects and presentations, assisted in organizing development workshops, and completed structured leadership training.
-
-`Teamwork` `Communication` `Leadership Training`
-
-<br/>
-
-**Event Volunteer** · Graphic Era Hill University
-`May 2026` · Nainital, India
-
-Supported event setup/teardown, managed participant registrations and inquiries, and coordinated logistics with fellow volunteers.
-
-`Event Operations` `Logistics` `Volunteer Coordination`
-
-<br/>
-
----
-
-### 📜 Certifications
-
-**Deloitte**
-
-<img src="https://img.shields.io/badge/Certified_Data_Analytics_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white"/> `June 2026`
-
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS_Cloud_Quest:_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> `December 2025`
-
-**Other**
-
-<img src="https://img.shields.io/badge/AI_in_Human_Resource_Management-8B5CF6?style=flat-square"/> `April 2025`
-<img src="https://img.shields.io/badge/Optimizing_Your_Work_with_Microsoft_365-8B5CF6?style=flat-square&logo=microsoft&logoColor=white"/> `September 2024`
 
 <br/>
 
@@ -140,12 +70,7 @@ Supported event setup/teardown, managed participant registrations and inquiries,
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com/?user=rajaaravv&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<br/>
-
-
 
 </div>
 
@@ -153,7 +78,7 @@ Supported event setup/teardown, managed participant registrations and inquiries,
 
 ---
 
-### 📉 Contribution Activity
+### 📊 Contribution Graph
 
 <div align="center">
 
@@ -172,32 +97,6 @@ Supported event setup/teardown, managed participant registrations and inquiries,
 <img src="https://raw.githubusercontent.com/rajaaravv/rajaaravv/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 
 </div>
-
-
-
-<br/>
-
----
-
-### 🎯 Current Focus
-
-```yaml
-learning:
-  - SQL query optimization
-  - Data visualization best practices
-  - Python for data analysis
-
-building:
-  - A portfolio of small, real data-analysis projects
-
-exploring:
-  - Foundations of data analytics tooling
-  - Cloud platforms (AWS, following the Cloud Practitioner cert)
-
-open_to:
-  - Data Analyst internships
-  - Collaborative student data projects
-```
 
 <br/>
 
