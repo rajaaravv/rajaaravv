@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4C1D95,100:8B5CF6&height=230&section=header&text=Aarav%20Raj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Data%20Visualization&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=230&section=header&text=Aarav%20Raj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Data%20Visualization&descAlignY=55&descSize=17" width="100%"/>
 
 <br/>
 
@@ -49,7 +49,7 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,python,mysql,postgres,git,github,vscode,vercel&theme=dark"/>
 
 <br/><br/>
 
@@ -66,25 +66,76 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rajaaravv&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=rajaaravv&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=rajaaravv&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-### 📊 Contribution Graph
+### 📈 Contribution Activity
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=rajaaravv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajaaravv&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaaravv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<br/>
 
-</div>
+---
+
+### 🧩 Languages Breakdown
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajaaravv&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajaaravv&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -121,6 +172,6 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 <i>"Consistent, honest progress compounds faster than borrowed credibility."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4C1D95,100:8B5CF6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" width="100%"/>
 
 </div>
