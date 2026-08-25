@@ -1,29 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=230&section=header&text=Aarav%20Raj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Data%20Visualization&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header" width="100%"/>
 
-<br/>
+# 👋 Hi, I'm Aarav Raj 🧠
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+clear+decisions;Python+%2B+SQL+%2B+Excel+%2B+Power+BI;BCA+Student+%40+Graphic+Era+Hill+University;Open+to+Data+Analyst+internships" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BCA-Graphic%20Era%20Hill%20University-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍_Patna,_Bihar,_India-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BCA-Graphic%20Era%20Hill%20University-6D28D9?style=flat&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Patna,_Bihar,_India-7C3AED?style=flat"/>
 
 <br/><br/>
 
-<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aarav-raj-71392a322"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/a9arav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:rajaarav272@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/rajaaravv"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aarav-raj-71392a322"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajaarav272@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rajaaravv"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajaaravv&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/rajaaravv?style=for-the-badge&color=8B5CF6&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/github/stars/rajaaravv?style=for-the-badge&color=8B5CF6&labelColor=1a1a1a"/>
+<img src="https://komarev.com/ghpvc/?username=rajaaravv&label=Profile+views"/>
+<img src="https://img.shields.io/github/followers/rajaaravv?style=flat&color=8B5CF6&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/github/stars/rajaaravv?style=flat&color=8B5CF6&labelColor=1a1a1a"/>
 
 </div>
 
@@ -54,12 +53,12 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
 
 </div>
 
@@ -158,11 +157,10 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 
 <div align="center">
 
-<a href="mailto:rajaarav272@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aarav-raj-71392a322"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/a9arav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/rajaaravv"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:rajaarav272@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aarav-raj-71392a322"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/rajaaravv"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/></a>
 
 </div>
 
