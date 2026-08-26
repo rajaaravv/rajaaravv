@@ -138,8 +138,8 @@ I'm early-career and intentionally honest about it: this profile reflects founda
 <div align="center">
 
 <a href="mailto:rajaarav272@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aarav-raj-71392a322"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/a9arav"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/rajaaravv"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://aaravraj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white"/></a>
 
 </div>
